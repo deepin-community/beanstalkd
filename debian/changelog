@@ -1,8 +1,9 @@
-beanstalkd (1.12-2+u001) UNRELEASED; urgency=medium
+beanstalkd (1.12-2deepin) unstable; urgency=medium
 
-  * update
+  [ LiChengGang ]
+  * update changelog 
 
- -- Gregory Potamianos <greg.potamianos@gmail.com>  Thu, 26 May 2022 16:10:48 +0800
+ -- LiChengGang <lichenggang@uniontech.com>  Thu, 23 Feb 2023 15:05:58 +0800
 
 beanstalkd (1.12-2) unstable; urgency=medium
 
